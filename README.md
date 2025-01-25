@@ -1,2 +1,3 @@
 # Script-Clustering-
-A empresa possui dados sobre várias características dos clientes, como o valor médio gasto, a frequência de compras e o número de categorias de produtos comprados. No entanto, esses dados não possuem rótulos que definem quais grupos de clientes existem.
+Atividade Desenvolvida no curso de ciência de dados da MCTI FUTURO, onde a empresa possui dados sobre várias características dos clientes, como o valor médio gasto, a frequência de compras e o número de categorias de produtos comprados. No entanto, esses dados não possuem rótulos que definem quais grupos de clientes existem.
+Então foi gerado um dataset com pelo menos 300 registros e o dataset deveria conter no minimo 3 fetatures; VALOR MÉDIO GASTO, FREQUÊNCIA DE COMPRAS e CATEGORIA DOS PRODUTOS, poderia se optar por algum algoritmo clustering K-means ou DBSCAN, apoós a escolha foi dado um justificativa do porquê da escolha.
